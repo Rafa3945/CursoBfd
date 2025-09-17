@@ -50,4 +50,4 @@ pjdao.saveJSON();                                       // 37 // Salva no "local
 console.log(x);                                         // 39 // Exibe o objeto JSON diretamente
 console.log(JSON.stringify(x));                         // 40 // Exibe o objeto convertido em string JSON
 console.log(pjdao.recoveryJSON());                      // 41 // Lê do localStorage e exibe a versão recuperada
-
+//Teste para o repositório.
